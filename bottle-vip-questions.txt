@@ -143,14 +143,13 @@ Drink if your name is Jay
 Drink if you've tried moonshine
 Drink if you've caught a fish before
 Give a drink if you've fired a gun
-Drink for every un-uploaded unity project you have
+Drink for every un-uploaded unity project you have (Max 10 drinks)
 Drink for every VRC commission you've done
 Drink if your Avi gender does not match yours
 Drink if you've played VR naked
 Drink 2 if you're currently naked
 Drink if you own a record / player
 Drink if you've played Final Fantasy
-Drink if you read BL
 Drink for every year you've played VRChat
 Drink if you've ever danced for a VR club
 Drink if you're horny
@@ -171,11 +170,6 @@ Drink if you've tried psychedelics
 Give 2 drinks if you've been stood up on a date
 Give 5 drinks
 Give 10 drinks
-Spinner drinks 1
-Spinner drinks 2
-Spinner drinks 3
-Spinner drinks 4
-Spinner drinks 5
 Drink if you've skinny dipped
 Drink if you've gotten a speeding ticket
 Give 1 if you've given a lap dance
@@ -204,6 +198,7 @@ Drink if you've been lost in a corn maze
 Drink if you like pumpkin spice flavor
 Drink if you think turkey is overrated
 Drink if you don't like bacon
+Drink if you vape 
 Give 5 Drinks
 DM the last 5 people you’ve messaged “Daddy”
 DM "I'm so horny" to the last person that you've messaged
@@ -219,7 +214,7 @@ If you're drinking vodka, drink
 If you're drinking beer, drink
 Good Boys Drink
 Good Girls Drink
-Drink if you're under 5"8
+Drink if you're under 5"8 (172 cm)
 drink if you have back problems
 Drink if you've been into horny jail today
 Take one drink per person in the room that's high
@@ -308,7 +303,6 @@ Give a drink if you've had a pet bird
 Give a drink if you've had pet fish
 Give a drink if you've wrote a software program
 Drink if you've been to dunkin doughnuts
-Drink if you've been to Tim Hortons
 Drink if you've tried Irn-Bru
 Drink if you have a crunchyroll subscription
 Give a drink if you have a cat
@@ -421,10 +415,9 @@ Drink if you pronounce gif as 'jif'
 Give a drink if you're eepy
 Drink if you haven't broken the seal yet
 Drink if you've been to Scotland 
-Drink if your cis
-Drink if you aren't cis
 Give a drink if you don't own a TV
 Drink if you have an Iphone
+Drink if you have an Android Phone
 Give a drink if you work from home
 Drink if your name is a reference to a show/game
 Drink if you’ve only ever used public avatars/gifted avatars
@@ -432,7 +425,6 @@ Drink if you’ve never spent any money on VRChat
 Drink if you've owned your current smartphone for more than two years
 'Booktok' girlies drink
 Drink if you have LED RGB lighting in your room
-Spartan avis drink
 Drink 1 per piercing you have
 Drink if you have tattoos
 Drink if your hair is dyed
@@ -443,8 +435,8 @@ Drink if you’re a virgin
 Drink if your hair goes past your butt
 Give a drink for every drink you’ve spilt so far tonight
 Give a drink if you have a piercing/(s) on your sensitive bits 
-Drink 2 if you're over 6' tall
-Drink (3-5) if you're a lightweight
+Drink 2 if you're over 6' (182 cm) tall
+Drink 3 if you're a lightweight
 Give a drink for every person you've slept with this year
 Drink if you've ever told someone "I can handle it" ;)
 Give one for every irl sexual partner you've had
